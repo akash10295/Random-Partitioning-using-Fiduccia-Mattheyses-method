@@ -23,4 +23,4 @@ Following gives the summary our code's result. __*NOTE THAT: These results are f
 
 The percentage improvement that we are currently getting with this code is between 60% to 75%.
 
-The source code is our pure hard work and not copied from anywhere. Dur to this reason, it is not made available openly. If requested with proper reason, it will be shared with you. Requests can be directed to me at my e-mail ID akash.t123@gmail.com.
+The source code is our pure hard work and not copied from anywhere. Due to this reason, it is not made available openly. If requested with proper reason, it will be shared with you. Requests can be directed to me at my e-mail ID akash.t123@gmail.com.
