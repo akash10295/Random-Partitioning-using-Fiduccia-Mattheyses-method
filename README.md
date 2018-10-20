@@ -1,4 +1,4 @@
-# Random-Partitioning-using-Fiduccia-Mattheyses-method
+# Random Partitioning using Fiduccia Mattheyses method
 
 As a part of my Graduate course __EEDG 6375: Design Automation of Physical Design__, I have done this project with my project partner Akshay Patil. We did this course under Dr. Dinesh Bhatia at The University of Texas at Dallas.
 *In the following text, the words 'Cell' and 'Node' as well as words 'Net' and 'Wire' might be used interchangeably.*
