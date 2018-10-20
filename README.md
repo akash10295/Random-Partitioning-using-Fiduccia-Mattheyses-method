@@ -15,6 +15,7 @@ We have used C++ to design our source code in order to implement this algorithm.
 Following gives the summary our code's result. __*NOTE THAT: These results are for the current code and we are working on it to improve in terms of execution time*__
 
 |Circuit|Execution time (approx)|
+|-------------|------------------|
 |FPGA-example1|3 seconds|
 |FPGA-example2|13 hours|
 |FPGA-example3|7 hours 30 minutes|
