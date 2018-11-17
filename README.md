@@ -23,4 +23,4 @@ Following gives the summary our code's result. __*NOTE THAT: These results are f
 
 The percentage improvement that we are currently getting with this code is between 60% to 75%.
 
-The source code for the given problem can be found here. This is an alpha version of the code and there are many potential places in code where it can be optimized. Suggestions are welcomed. Contact at akash.t123@gmail.com
+The source code for the given problem can be found [here](https://github.com/akash10295/Random-Partitioning-using-Fiduccia-Mattheyses-method/blob/master/fmpart.cpp). This is an alpha version of the code and there are many potential places in code where it can be optimized. Suggestions are welcomed. Contact at akash.t123@gmail.com
