@@ -1,6 +1,6 @@
 # Random Partitioning using Fiduccia Mattheyses method
 
-As a part of my Graduate course __EEDG 6375: Design Automation of Physical Design__, I have done this project with my project partner __Akshay Patil__([LinkedIN](https://www.linkedin.com/in/akshayxpatil/)). We did this course under Dr. Dinesh Bhatia at The University of Texas at Dallas.
+As a part of my Graduate course __EEDG 6375: Design Automation of Physical Design__, I have done this project with my project partner __Akshay Patil__ ([LinkedIN](https://www.linkedin.com/in/akshayxpatil/)). We did this course under Dr. Dinesh Bhatia at The University of Texas at Dallas.
 *In the following text, the words 'Cell' and 'Node' as well as words 'Net' and 'Wire' might be used interchangeably.*
 
 In the world of Design Automation, the circuit partitioning is the most fundamental step that is followed during the design of the backend of the EDA tools. With the help of partitioning, the circuit is divided in parts such a way that the cells which talks with each other frequently are brought close together. This helps in reducing the routing and the cost related to it.
